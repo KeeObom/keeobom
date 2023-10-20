@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/keeobom" target="blank"><img src="https://img.shields.io/twitter/follow/keeobom?logo=twitter&style=for-the-badge" alt="keeobom" /></a> </p>
 
-- 🔭 I’m currently working on **Topic Modelling with LDA**
+- 🔭 I’m currently working on **Large Language Models ChatBot**
 
 - 👨‍💻 All of my projects are available at [github.com/keeObom](github.com/keeObom)
 
